@@ -32,4 +32,9 @@ cd ..
 cd server/src/data/vectors
 //create a new folder there, such as "atomic-habits" or "life-story-of-charlotte" and paste those 2 files in
 //in server/data/books.ts, make sure to create your own books with the correct path(!!!)
-``` 
+```
+
+## Example
+![image](https://github.com/fulopmilan/page-mage/assets/54361968/322345e3-3018-43d8-a564-e85e4d901405)
+
+
